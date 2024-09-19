@@ -1,0 +1,215 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li{
+    @apply px-2;
+}
+
+.bg-primary{
+    /* background-image: url('./assets/wave.png'); */
+    background-image: url('./assets/star.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.mobile-nav li{
+    @apply w-full h-full text-center;
+}
+.sky-blue{
+    color: aqua;
+}
+.bg-teritory{
+    background-image: url('./assets/wavedown.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bg-four{
+    background-image: url('./assets/wave.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* hero  section*/
+.bg-secondary {
+    background-image: url('./assets/star.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.color-primary{
+    color: darkblue;
+}
+.color-secondary{
+    text-decoration: underline;
+}
+.bg-button{
+    width: 90px;
+    background: aqua;
+    border: 2px solid;
+    border-radius: 15px;
+    border: none;
+}
+/* project section */
+
+
+.img-anime:hover{
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.project-desc{
+    @apply absolute left-0 right-0 bottom-14 top-0  opacity-0 duration-500 hover:opacity-100;
+}
+.btn{
+    @apply  px-3 py-2 font-bold border-2 border-none rounded;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.padding{
+    padding-bottom: 5px;
+}
+.card-prj{
+    border-style: 1px solid;
+    border-radius: 25px;
+    border-color: gray;
+    /* background-color:  rgb(2, 137, 137) */
+    background: none;
+    border-width: 2px;
+    gap: 20px;
+    width: 400px;
+    height: auto;
+}
+.bg-prjbutton{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 140px;
+    background-color: none;
+    border: 2px solid;
+    border-radius: 15px;
+    border-color: gray;
+}
+.bg-prjbuttonone{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 140px;
+    background-color: aqua;
+    border: 2px solid;
+    border-radius: 15px;
+    border-color:aqua;
+    color: black;
+}
+.bg-prjbuttonone:hover{
+    background-color: transparent;
+    color: white;
+}
+.bg-prjbutton:hover{
+    background-color: aqua;
+    color: black;
+}
+.text{
+    transition: 0.5s ease-out;
+}
+.text:hover{
+    margin-left: 30px;
+    /* color: #fff; */
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+}
+.textone{
+    transition: 0.5s ease-out;
+}
+.textone:hover{
+    margin-left: 30px;
+    text-shadow: 0 0 10px, 0 0 20px , 0 0 40px;
+}
+
+/* skills section */
+.card{
+    border-style: 2px solid;
+    border-radius: 25px;
+    border-color: gray;
+    /* background-color:  rgb(2, 137, 137) */
+    background: none;
+    border-width: 2px;
+    gap: 20px;
+    width: 100%;
+}
+
+/* skills section - images  */
+.skills{
+    border-style: 2px solid;
+    border-color: gray;
+    border-radius: 10px;
+    /* background-color: red; */
+    border-width: 1px;
+    gap: 5px;
+    margin-bottom: 10px;
+
+}
+
+/*  */
+.card-education{
+    border-style: 2px solid;
+    border-radius: 25px;
+    border-color: gray;
+    /* background-color:  rgb(2, 137, 137) */
+    background: none;
+    border-width: 2px;
+    gap: 20px;
+    
+    /* width: 700px; */
+    padding: 20px;
+    /* @apply md:w-[300px]; */
+}
+.card-education:hover{
+    animation: zoom-out 1s ease infinite;
+}
+
+@keyframes zoom-out {
+  50% {
+    transform: scale(1, 1);
+  }
+  100% {
+    transform: scale(1.1, 1.1);
+  }
+}
+
+/* contact section */
+.padding{
+    padding-top: 120px ;
+}
+
+/* animation */
+.linear-wipe{
+    text-align: center;
+    background: linear-gradient(to right, #FFF 20%, rgb(64, 220, 248) 40%, rgb(64, 220, 248) 60%, #FFF 80%);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    -text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    animation: shine 1s linear infinite;
+}
+@keyframes shine {
+      to {
+        background-position: 200% center;
+      }
+}
