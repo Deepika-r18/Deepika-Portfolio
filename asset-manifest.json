@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Deepika-r18/Deepika-Portfolio.git/static/css/main.6bbde978.css",
-    "main.js": "/Deepika-r18/Deepika-Portfolio.git/static/js/main.0bfc6b5a.js",
-    "static/media/chow-food.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/chow-food.593a99345f787a0246bc.png",
-    "static/media/Html & Css.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/Html & Css.a7376beb1e95df92393b.png",
-    "static/media/notes.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/notes.7fa426dc9e038ee2cf95.png",
-    "static/media/bootstrap.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/bootstrap.a7c8d4ac3f07e031e310.png",
-    "static/media/vite.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/vite.83fc56296fdfb132d352.png",
-    "static/media/js.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/js.83f816a137ee2ef5f733.png",
-    "static/media/Todo-Lists.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/Todo-Lists.7499f926c10b324a1e6b.png",
-    "static/media/voice converter.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/voice converter.1721e3dfdb24a802ca34.png",
-    "static/media/star.png": "/Deepika-r18/Deepika-Portfolio.git/static/media/star.aae44748626b56cf94b7.png",
-    "index.html": "/Deepika-r18/Deepika-Portfolio.git/index.html",
-    "main.6bbde978.css.map": "/Deepika-r18/Deepika-Portfolio.git/static/css/main.6bbde978.css.map",
-    "main.0bfc6b5a.js.map": "/Deepika-r18/Deepika-Portfolio.git/static/js/main.0bfc6b5a.js.map"
+    "main.css": "/Deepika-Portfolio/static/css/main.01de05ba.css",
+    "main.js": "/Deepika-Portfolio/static/js/main.338edd61.js",
+    "static/media/chow-food.png": "/Deepika-Portfolio/static/media/chow-food.593a99345f787a0246bc.png",
+    "static/media/Html & Css.png": "/Deepika-Portfolio/static/media/Html & Css.a7376beb1e95df92393b.png",
+    "static/media/notes.png": "/Deepika-Portfolio/static/media/notes.7fa426dc9e038ee2cf95.png",
+    "static/media/bootstrap.png": "/Deepika-Portfolio/static/media/bootstrap.a7c8d4ac3f07e031e310.png",
+    "static/media/vite.png": "/Deepika-Portfolio/static/media/vite.83fc56296fdfb132d352.png",
+    "static/media/js.png": "/Deepika-Portfolio/static/media/js.83f816a137ee2ef5f733.png",
+    "static/media/Todo-Lists.png": "/Deepika-Portfolio/static/media/Todo-Lists.7499f926c10b324a1e6b.png",
+    "static/media/voice converter.png": "/Deepika-Portfolio/static/media/voice converter.1721e3dfdb24a802ca34.png",
+    "static/media/star.png": "/Deepika-Portfolio/static/media/star.aae44748626b56cf94b7.png",
+    "index.html": "/Deepika-Portfolio/index.html",
+    "main.01de05ba.css.map": "/Deepika-Portfolio/static/css/main.01de05ba.css.map",
+    "main.338edd61.js.map": "/Deepika-Portfolio/static/js/main.338edd61.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bbde978.css",
-    "static/js/main.0bfc6b5a.js"
+    "static/css/main.01de05ba.css",
+    "static/js/main.338edd61.js"
   ]
 }
