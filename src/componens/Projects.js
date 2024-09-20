@@ -27,7 +27,7 @@ export default function Projects(){
             
         </div>
         
-        <div className='flex flex-col md:flex-row px-10 py-20 gap-7'>
+        <div className='flex justify-center py-5 flex-col md:flex-row gap-8'>
             <div className='relative textone '>
                 <img className='h-[200px]' src={ChowFood}/>
                 <div className=' my-2'>
@@ -62,7 +62,7 @@ export default function Projects(){
                 </div>
             </div>
         </div>
-        <div className='flex flex-col md:flex-row px-10 py-0 gap-7'>
+        <div className='flex justify-center py-5 flex-col md:flex-row gap-8'>
             <div className='relative textone '>
                 <img className='h-[200px] ' src={voice}/>
                 <div className=' my-2 '>
