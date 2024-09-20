@@ -39,7 +39,7 @@ export default function Projects(){
                     </div>
                 </div>
             </div>
-            <div className='relative textone '>
+            {/* <div className='relative textone '>
                 <img className='h-[200px] ' src={Todolists}/>
                 <div className=' my-2 '>
                     <p className='text-center py-1'>Chow-Food</p>
@@ -49,7 +49,7 @@ export default function Projects(){
                         <a target='_blank' href='https://github.com/Deepika-r18/chow-food' className='flex justify-center img-anime'><button className='bg-prjbutton'>View Code</button></a>
                     </div>
                 </div>
-            </div>
+            </div> */}
             <div className='relative textone '>
                 <img className='h-[200px] ' src={Htmlandcss}/>
                 <div className=' my-2 '>
