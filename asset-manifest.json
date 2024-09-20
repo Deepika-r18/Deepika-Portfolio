@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Deepika-Portfolio/static/css/main.ec5944da.css",
-    "main.js": "/Deepika-Portfolio/static/js/main.984ff223.js",
+    "main.css": "/Deepika-Portfolio/static/css/main.bbc4e2ac.css",
+    "main.js": "/Deepika-Portfolio/static/js/main.730e0909.js",
     "static/media/chow-food.png": "/Deepika-Portfolio/static/media/chow-food.593a99345f787a0246bc.png",
     "static/media/Html & Css.png": "/Deepika-Portfolio/static/media/Html & Css.a7376beb1e95df92393b.png",
     "static/media/notes.png": "/Deepika-Portfolio/static/media/notes.7fa426dc9e038ee2cf95.png",
@@ -12,11 +12,11 @@
     "static/media/voice converter.png": "/Deepika-Portfolio/static/media/voice converter.1721e3dfdb24a802ca34.png",
     "static/media/star.png": "/Deepika-Portfolio/static/media/star.aae44748626b56cf94b7.png",
     "index.html": "/Deepika-Portfolio/index.html",
-    "main.ec5944da.css.map": "/Deepika-Portfolio/static/css/main.ec5944da.css.map",
-    "main.984ff223.js.map": "/Deepika-Portfolio/static/js/main.984ff223.js.map"
+    "main.bbc4e2ac.css.map": "/Deepika-Portfolio/static/css/main.bbc4e2ac.css.map",
+    "main.730e0909.js.map": "/Deepika-Portfolio/static/js/main.730e0909.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec5944da.css",
-    "static/js/main.984ff223.js"
+    "static/css/main.bbc4e2ac.css",
+    "static/js/main.730e0909.js"
   ]
 }
