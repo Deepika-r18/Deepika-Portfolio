@@ -10,13 +10,13 @@ export default function Contact(){
             <h1 className="py-5 text-1xl text-center text-white font-bold ">For More Details</h1>
             <h1 className="text-4xl text-center  sky-blue font-semibold linear-wipe">Contact Me!</h1>
         </div>
-        <div className="flex justify-center py-7 gap-6">
-            <a target="_blank" href="https://wa.me/9944945347" className="hover:text-black"><FaWhatsapp size={40}/></a>
-            <a target="_blank" href="tel: +994 494 5347" className="hover:text-black "><IoCallOutline size={40}/></a>
-            <a target="_blank" href="https://www.instagram.com/deepika._ravindran/?hl=en" className="hover:text-black "><BsInstagram size={40}/></a>
-            <a target="_blank" href="mailto:deepikaravindran1801@gmail.com" className="hover:text-black "><IoMailOutline size={40}/></a>
-            <a target="_blank" href="https://www.linkedin.com/in/deepika-ravindran-727798281/" className="hover:text-black "><AiOutlineLinkedin size={40}/></a>
-            <a target="_blank" href="https://github.com/Deepika-r18" className="hover:text-black "><FaGithub size={40}/></a>
+        <div className="flex justify-center py-7 gap-3">
+            <a target="_blank" href="https://wa.me/9944945347" className="hover:text-black"><FaWhatsapp size={35}/></a>
+            <a target="_blank" href="tel: +994 494 5347" className="hover:text-black "><IoCallOutline size={35}/></a>
+            <a target="_blank" href="https://www.instagram.com/deepika._ravindran/?hl=en" className="hover:text-black "><BsInstagram size={35}/></a>
+            <a target="_blank" href="mailto:deepikaravindran1801@gmail.com" className="hover:text-black "><IoMailOutline size={35}/></a>
+            <a target="_blank" href="https://www.linkedin.com/in/deepika-ravindran-727798281/" className="hover:text-black "><AiOutlineLinkedin size={35}/></a>
+            <a target="_blank" href="https://github.com/Deepika-r18" className="hover:text-black "><FaGithub size={35}/></a>
         </div>
         
 

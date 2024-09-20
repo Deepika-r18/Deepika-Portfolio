@@ -4,10 +4,10 @@ export default function Education(){
             <div className="text-center">
                 <h1 className="text-5xl py-3 sky-blue font-bold linear-wipe ">Education</h1>
                 <p className='p-2 text-2xl text-gray-400'>My education has been a journey of self-discovery and growth.</p>
-                <p className=' py-3 text-2xl text-gray-400'>My educational deatils are as follows.</p>
+                <p className=' py-3 text-2xl text-gray-400'>My educational details are as follows.</p>
 
             </div>
-            <div className=" mx-24 md:mx-96">
+            <div className=" mx-0 md:mx-80">
                 <div className="card-education w-[300px] md:w-[700px] my-3 px-3 text-center animation">
                     <h1 className="font-bold text-white py-2 text-2xl hover:text-gray-400">Master of Computer Applications</h1>
                     <p className="text-gray-200 ">M.A.M College Of Engineering</p>

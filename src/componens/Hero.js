@@ -26,7 +26,7 @@ export default function Hero(){
 
         </div>
         <div className="py-7">
-            <p className="text-2xl font-hero-font text-gray-400">Check My Resume <a className="btn sky-blue hover:text-white" target="_blank" href="https://deepika-resume.tiiny.site/"><button className="text-black bg-button hover:text-blue-800 text text-3xl">View</button></a></p>
+            <p className="text-2xl font-hero-font text-gray-400">Check My Resume <a className="btn sky-blue hover:text-white" target="_blank" href="https://sapphire-jodie-37.tiiny.site"><button className="text-black bg-button hover:text-blue-800 text text-3xl">View</button></a></p>
         </div>
         
     </section>
