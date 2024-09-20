@@ -7,7 +7,7 @@ export default function Education(){
                 <p className=' py-3 text-2xl text-gray-400'>My educational details are as follows.</p>
 
             </div>
-            <div className="flex justify-evenly py-5 flex-col md:flex-row gap-8" >
+            <div className="flex justify-center py-5 flex-col md:flex-row gap-8" >
                 <div className="card-education w-[300px] md:w-[700px] my-3 px-3 text-center animation">
                     <h1 className="font-bold text-white py-2 text-2xl hover:text-gray-400">Master of Computer Applications</h1>
                     <p className="text-gray-200 ">M.A.M College Of Engineering</p>
