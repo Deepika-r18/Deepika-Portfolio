@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Deepika-Portfolio/static/css/main.bbc4e2ac.css",
-    "main.js": "/Deepika-Portfolio/static/js/main.d0d93361.js",
+    "main.js": "/Deepika-Portfolio/static/js/main.4cb3c5f0.js",
     "static/media/chow-food.png": "/Deepika-Portfolio/static/media/chow-food.593a99345f787a0246bc.png",
     "static/media/Html & Css.png": "/Deepika-Portfolio/static/media/Html & Css.a7376beb1e95df92393b.png",
     "static/media/notes.png": "/Deepika-Portfolio/static/media/notes.7fa426dc9e038ee2cf95.png",
@@ -13,10 +13,10 @@
     "static/media/star.png": "/Deepika-Portfolio/static/media/star.aae44748626b56cf94b7.png",
     "index.html": "/Deepika-Portfolio/index.html",
     "main.bbc4e2ac.css.map": "/Deepika-Portfolio/static/css/main.bbc4e2ac.css.map",
-    "main.d0d93361.js.map": "/Deepika-Portfolio/static/js/main.d0d93361.js.map"
+    "main.4cb3c5f0.js.map": "/Deepika-Portfolio/static/js/main.4cb3c5f0.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc4e2ac.css",
-    "static/js/main.d0d93361.js"
+    "static/js/main.4cb3c5f0.js"
   ]
 }
