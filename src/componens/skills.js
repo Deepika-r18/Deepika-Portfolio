@@ -46,7 +46,7 @@ export default function Skills(){
                     </div>
                     <div className="flex flex-col md:flex-row  justify-center gap-10 py-3">
                         <div className=" flex skills">
-                            <img className="w-[30px] p-1" src={jquery}/><span className=" px-2 py-2 hover:text-gray-400 ">jQuery</span>
+                            <img className="w-[30px] p-1" src={jquery}/><span className=" px-2 py-2 hover:text-gray-400 ">JQuery</span>
                         </div>
                         
 
@@ -70,7 +70,7 @@ export default function Skills(){
                             <img className="w-[30px] p-1" src={vite}/><span className=" px-2 py-2 hover:text-gray-400 ">Vite</span>
                         </div>
                         <div className=" flex skills">
-                            <img className="w-[30px] p-1" src={Figma}/><span className=" px-2 py-2 ">Figma</span>
+                            <img className="w-[30px] p-1" src={Figma}/><span className=" px-2 py-2 hover:text-gray-400 ">Figma</span>
                         </div>
                         {/* <div className=" flex skills">
                             <img className="w-[30px] p-1" src={html}/><span className=" px-2 py-2 ">Html5</span>
