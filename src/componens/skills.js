@@ -11,6 +11,7 @@ import git from "../assets/git.png";
 import github from "../assets/github.png";
 import vscode from "../assets/vscode.png";
 import vite from "../assets/vite.png";
+import Figma from "../assets/figma.png";
 
 export default function Skills(){
     return <section className="flex flex-col px-20 py-5 justify-center bg-secondary text-white font-hero-font" id="skills">
@@ -47,6 +48,7 @@ export default function Skills(){
                         <div className=" flex skills">
                             <img className="w-[30px] p-1" src={jquery}/><span className=" px-2 py-2 hover:text-gray-400 ">jQuery</span>
                         </div>
+                        
 
                     </div>
                 </div>
@@ -67,9 +69,9 @@ export default function Skills(){
                         <div className=" flex skills">
                             <img className="w-[30px] p-1" src={vite}/><span className=" px-2 py-2 hover:text-gray-400 ">Vite</span>
                         </div>
-                        {/* <div className=" flex skills">
-                            <img className="w-[30px] p-1" src={html}/><span className=" px-2 py-2 ">Html5</span>
-                        </div> */}
+                        <div className=" flex skills">
+                            <img className="w-[30px] p-1" src={Figma}/><span className=" px-2 py-2 ">Figma</span>
+                        </div>
                         {/* <div className=" flex skills">
                             <img className="w-[30px] p-1" src={html}/><span className=" px-2 py-2 ">Html5</span>
                         </div> */}

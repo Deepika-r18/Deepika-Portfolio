@@ -17,11 +17,11 @@ export default function Hero(){
         <h1 className="text-white text-1xl font-hero-font py-2" >Hi there,  
             <p className=" sky-blue text-7xl"><span className="text-white">I'm</span> Deepika</p>
         {/* using dynamic content in h2 */}
-         <h2 className="py-5  text-4xl linear-wipe md:text-3xl">Frontend Developer <span className="sky-blue">|</span> ReactJs Developer</h2>
+         <h2 className="py-5  text-4xl linear-wipe md:text-3xl">Frontend-ReactJs <span className="sky-blue">|</span> UI UX Developer</h2>
          <p className="text-2xl text-gray-300 ">As I am a fresher with Skilled Frontend developer with a strong
           Portfolio, passionate about staying updated on frontend tech.
           Collaborative and committed to quality, you thrive in dynamic teams.
-          Eager to contribute creativity and bring innovative ideas to life</p>
+          Eager to contribute creativity and bring innovative ideas to life.</p>
           </h1>
 
         </div>
