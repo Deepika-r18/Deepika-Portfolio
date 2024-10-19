@@ -47,7 +47,7 @@ export default function Projects(){
                     <p className='sky-blue text-center'>UI Design Using Figma</p>
                     <div className='flex flex-col justify-around md:flex-row'>
                         <a target='_blank' href='https://www.figma.com/design/EIGducOzZqnyJmlPxiIDrr/Burger-App?node-id=0-1&m=dev&t=zX3vR4hsTo5pj5rU-1' className='flex justify-center img-anime'><button className='bg-prjbuttonone'>View in Figma</button></a>
-                        <a target='_blank' href='https://www.figma.com/proto/EIGducOzZqnyJmlPxiIDrr/Burger-App?node-id=1-3&t=zX3vR4hsTo5pj5rU-1' className='flex justify-center img-anime'><button className='bg-prjbutton'>Prototype View</button></a>
+                        <a target='_blank' href='https://www.figma.com/proto/EIGducOzZqnyJmlPxiIDrr/Burger-App?node-id=0-1&t=1Q2ZESKQmk1E6Hzp-1' className='flex justify-center img-anime'><button className='bg-prjbutton'>Prototype View</button></a>
                     </div>
                 </div>
             </div>
