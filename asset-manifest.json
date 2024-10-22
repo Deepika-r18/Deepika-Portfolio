@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Deepika-Portfolio/static/css/main.114d9de4.css",
-    "main.js": "/Deepika-Portfolio/static/js/main.e43eb5bd.js",
+    "main.js": "/Deepika-Portfolio/static/js/main.0bf8bb7c.js",
     "static/media/chow-food.png": "/Deepika-Portfolio/static/media/chow-food.593a99345f787a0246bc.png",
     "static/media/Html & Css.png": "/Deepika-Portfolio/static/media/Html & Css.a7376beb1e95df92393b.png",
     "static/media/notes.png": "/Deepika-Portfolio/static/media/notes.7fa426dc9e038ee2cf95.png",
     "static/media/Burger.png": "/Deepika-Portfolio/static/media/Burger.ab40c6858ad068b8e225.png",
     "static/media/bootstrap.png": "/Deepika-Portfolio/static/media/bootstrap.a7c8d4ac3f07e031e310.png",
+    "static/media/Car app.png": "/Deepika-Portfolio/static/media/Car app.3ca4c809cf00aefaeac5.png",
     "static/media/vite.png": "/Deepika-Portfolio/static/media/vite.83fc56296fdfb132d352.png",
     "static/media/js.png": "/Deepika-Portfolio/static/media/js.83f816a137ee2ef5f733.png",
     "static/media/Todo-Lists.png": "/Deepika-Portfolio/static/media/Todo-Lists.7499f926c10b324a1e6b.png",
@@ -14,10 +15,10 @@
     "static/media/star.png": "/Deepika-Portfolio/static/media/star.aae44748626b56cf94b7.png",
     "index.html": "/Deepika-Portfolio/index.html",
     "main.114d9de4.css.map": "/Deepika-Portfolio/static/css/main.114d9de4.css.map",
-    "main.e43eb5bd.js.map": "/Deepika-Portfolio/static/js/main.e43eb5bd.js.map"
+    "main.0bf8bb7c.js.map": "/Deepika-Portfolio/static/js/main.0bf8bb7c.js.map"
   },
   "entrypoints": [
     "static/css/main.114d9de4.css",
-    "static/js/main.e43eb5bd.js"
+    "static/js/main.0bf8bb7c.js"
   ]
 }
