@@ -4,6 +4,7 @@ import Notes from '../assets/notes.png';
 import ChowFood from '../assets/chow-food.png';
 import voice from '../assets/voice converter.png';
 import Burger from '../assets/Burger.png';
+import car from '../assets/Car app.png';
 
 
 
@@ -51,17 +52,17 @@ export default function Projects(){
                     </div>
                 </div>
             </div>
-            {/* <div className='relative textone '>
-                <img className='h-[200px] ' src={Htmlandcss}/>
+            <div className='relative textone '>
+                <img className='h-[200px] ' src={car}/>
                 <div className=' my-2 '>
-                    <p className='text-center py-1'>An E-commerce Website</p>
-                    <p className='sky-blue text-center'>Using Html5 and Css3</p>
+                    <p className='text-center py-1'>Car App</p>
+                    <p className='sky-blue text-center'>UI Design Using Figma</p>
                     <div className='flex flex-col justify-around md:flex-row'>
-                        <a target='_blank' href='https://deepika-r18.github.io/chow-food/' className='flex justify-center img-anime'><button className='bg-prjbuttonone'>View Live App</button></a>
-                        <a target='_blank' href='https://github.com/Deepika-r18/chow-food' className='flex justify-center img-anime'><button className='bg-prjbutton'>View Code</button></a>
+                        <a target='_blank' href='https://www.figma.com/design/wts69y3SBjeJtYGcj3xhf0/Car-Rental-App?node-id=0-1&node-type=canvas&t=OoAeS8oJPqCHVSLC-0' className='flex justify-center img-anime'><button className='bg-prjbuttonone'>View in Figma</button></a>
+                        <a target='_blank' href='https://www.figma.com/proto/wts69y3SBjeJtYGcj3xhf0/Car-Rental-App?node-id=1-3&t=DXkRRxX2XMy0VYGb-1&starting-point-node-id=1%3A3' className='flex justify-center img-anime'><button className='bg-prjbutton'>Prototype View</button></a>
                     </div>
                 </div>
-            </div> */}
+            </div>
         </div>
         <div className='flex justify-center py-5 flex-col md:flex-row gap-8'>
             <div className='relative textone '>
